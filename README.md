@@ -7,7 +7,6 @@ Create a responsive blog page using Bootstrap 5 CDN. The page includes a multipl
 - Web Browser (Chrome, Firefox, etc.)
 
 ## Features
-- Responsive navigation bar with brand and links
 - Blog post cards arranged using Bootstrap grid
 - Each card includes an image, title, description, and "Read More" button
 - Footer with social media icons and copyright
